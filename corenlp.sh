@@ -1,0 +1,1 @@
+java -mx2g -cp data/corenlp/stanford-corenlp-3.8.0.jar:data/corenlp/stanford-corenlp-3.8.0-models.jar edu.stanford.nlp.pipeline.StanfordCoreNLPServer -preload tokenize,ssplit,pos,lemma,parse,depparse -threads 8

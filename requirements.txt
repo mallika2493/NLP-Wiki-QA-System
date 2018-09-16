@@ -1,0 +1,6 @@
+nltk==3.2.5
+numpy==1.14.2
+requests==2.18.4
+tensorflow==1.6.0
+tqdm==4.21.0
+wikipedia==1.4.0
