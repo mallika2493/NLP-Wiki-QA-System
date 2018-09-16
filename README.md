@@ -2,7 +2,7 @@
 This repo attempts to reproduce the match-lstm and answer pointer experiments from the 2016 paper on the same. A lot of the preprocessing boiler code is taken from Stanford CS224D and https://github.com/MurtyShikhar/Question-Answering
 
 Please refer to our research paper: 
-[https://drive.google.com/file/d/1ro9bY9qsglspAojf7N6Kg75aQhrkkVQ2/view?usp=sharing] (An RNN based approach to answer Open-Domain questions using Wikipedia)
+[https://drive.google.com/file/d/1ro9bY9qsglspAojf7N6Kg75aQhrkkVQ2/view?usp=sharing](An RNN based approach to answer Open-Domain questions using Wikipedia)
 
 The tensorflow model implementation is in qa_model.py
 
